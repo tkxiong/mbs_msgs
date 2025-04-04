@@ -16,6 +16,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Battery.msg"
   "msg/Encoders.msg"
   "msg/Infrared.msg"
+  "msg/Imu.msg"
   "msg/PID.msg"
   "msg/Servo.msg"
   "msg/Ultrasonic.msg"
